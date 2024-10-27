@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.page
+{
+	height: 700px;
+	width: 100%;
+	border: 1px solid;
+	display: flex;
+
+}
+.page1
+{
+	height: 700px;
+	width: 68%;
+	border: 1px solid;
+	background-image: url(bial-marro.jpg);
+	background-size: cover;
+}
+.page2
+{
+	height: 700px;
+	width: 33%;
+	border: 1px solid;
+	margin-left: 10px;
+	background-color: #f2c10f;
+	
+}
+.page1 h4
+{
+	margin-left: 100px;
+	margin-top: 130px;
+	font-family: "bebas neue" sans-serif;
+	color: white;
+}
+.info1
+{
+    height: 2px;
+	width: 7%;
+	margin-left: 100px;
+	margin-top: -10px;
+	border: 1px solid transparent;
+	background-color: orange;
+}
+.info2
+{
+	color: white;
+	font-size: 60px;
+	margin-left: 100px;
+	margin-top: 30px;
+	font-family: "Nanum Gothic" sans-serif;
+}
+.info3
+{
+	height: 40px;
+	width: 18%;
+	border: 1px solid;
+	border-radius: 50px;
+	margin-left: 100px;
+	margin-top: 50px;
+	border-color: white;
+}
+.info3 h3 
+{
+	color: white;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 15px;
+}
+.info4
+{
+	height: 150px;
+	width: 35%;
+	border: 1px solid transparent;
+	border-radius: 200px;
+	background-color: white;
+	margin-top: 50px;
+}
+.info5 h1
+{
+	font-size: 50px;
+	color: white;
+	margin-top: 10px;
+	font-family: "roboto" sans-serif;
+}
+.info5 p 
+{
+	margin-top: -20px;
+	color: white;
+	font-size: 14px;
+	font-family: "roboto" sans-serif;
+}
+.info6
+{
+	height: 2px;
+	width: 80%;
+	border: 1px solid transparent;
+	background-color: white;
+	margin-top: 38px;
+}
+.info7
+{
+    margin-top: 40px;
+    font-style: italic;
+	color: white;
+}
+.info8 
+{
+	height: 30px;
+	width: 30px;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	margin-left: 100px;
+	margin-top: 60px;
+	color: #f2c10f;
+	background-color: white;
+}
+.info8 .fa-facebook-f
+{
+	margin-left: 8px;
+	margin-top: 6px;
+}
+.info9 
+{
+	height: 30px;
+	width: 30px;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	margin-left: 150px;
+	margin-top: -32px;
+	color: #f2c10f;
+	background-color: white;
+}
+.info9 .fa-twitter
+{
+	margin-left: 8px;
+	margin-top: 6px;
+}
+.info10 
+{
+	height: 30px;
+	width: 30px;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	margin-left: 200px;
+	margin-top: -32px;
+	color: #f2c10f;
+	background-color: white;
+}
+.info10 .fa-linkedin
+{
+	margin-left: 8px;
+	margin-top: 6px;
+}
+.info11
+{
+	height: 30px;
+	width: 30px;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	margin-left: 250px;
+	margin-top: -32px;
+	color: #f2c10f;
+	background-color: white;
+}
+.info11 .fa-wifi
+{
+	margin-left: 6px;
+	margin-top: 6px;
+}
+.info12
+{
+	height: 30px;
+	width: 30px;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	margin-left: 300px;
+	margin-top: -32px;
+	color: #f2c10f;
+	background-color: white;
+}
+.info12 .fa-basketball
+{
+	margin-left: 6px;
+	margin-top: 6px;
+}
